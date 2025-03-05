@@ -36,12 +36,12 @@ Dieses Projekt zielt darauf ab, eine herkömmliche Bluetooth-Maus, die ursprüng
   
 ### Vorteile & Nutzen
 
--✅ Kein Wechsel von Einwegbatterien mehr – nachhaltige Lösung
--✅ Maus bleibt auch während des Ladens nutzbar
--✅ Effiziente 1,5V-Versorgung mit TPS62841DGRR für maximale Akkulaufzeit
--✅ Kompakte und zuverlässige Schaltung mit SMD-Bauteilen
--✅ Gehäuse kann mit 3D-Druck individuell angepasst werden
--✅ Erweiterte Sicherheit durch Schutzschaltung (DW01A & FS8025)
--✅ Einfache Integration in bestehende Hardware
+- ✅ Kein Wechsel von Einwegbatterien mehr – nachhaltige Lösung
+- ✅ Maus bleibt auch während des Ladens nutzbar
+- ✅ Effiziente 1,5V-Versorgung mit TPS62841DGRR für maximale Akkulaufzeit
+- ✅ Kompakte und zuverlässige Schaltung mit SMD-Bauteilen
+- ✅ Gehäuse kann mit 3D-Druck individuell angepasst werden
+- ✅ Erweiterte Sicherheit durch Schutzschaltung (DW01A & FS8025)
+- ✅ Einfache Integration in bestehende Hardware
 
 
