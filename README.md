@@ -16,7 +16,7 @@ Dieses Projekt zielt darauf ab, eine herkömmliche Bluetooth-Maus, die ursprüng
 ### Technische Spezifikationen
 -	Laderegler: TP4056 mit integriertem Schutzschaltkreis
 -	Akku-Schutz:
-   ---	DW01A: Li-Ion Schutz-IC zur Über- und Tiefentladesicherung
+-   ---	DW01A: Li-Ion Schutz-IC zur Über- und Tiefentladesicherung
    ---	FS8025: MOSFET-Doppeltransistor für Überstrom- und Kurzschlussschutz
 -	Spannungsregler:
    ---	TPS62841DGRR: Hocheffizienter DC-DC-Abwärtswandler, der die 3,7V Akkuspannung auf 1,5V für die Maus reduziert
