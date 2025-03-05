@@ -1,9 +1,9 @@
-## N50-Raptor
-### Projektbeschreibung: Nachrüstung einer Bluetooth-Maus mit wiederaufladbarem Akku
+# N50-Raptor
+## Projektbeschreibung: Nachrüstung einer Bluetooth-Maus mit wiederaufladbarem Akku
 
 Dieses Projekt zielt darauf ab, eine herkömmliche Bluetooth-Maus, die ursprünglich mit nicht wiederaufladbaren Batterien betrieben wird, auf einen fest verbauten Li-Ion/LiPo-Akku umzurüsten. Dazu wurde eine maßgeschneiderte Lade- und Energieverwaltungsleiterplatte entwickelt, die eine zuverlässige Stromversorgung sicherstellt und gleichzeitig den kontinuierlichen Betrieb der Maus während des Ladevorgangs ermöglicht.
 
-## Funktionalität & Zielsetzung
+### Funktionalität & Zielsetzung
 -	Ersetzen der herkömmlichen 1,5V-Batterie durch einen wiederaufladbaren Li-Ion/LiPo-Akku
 -	Integration einer Ladeelektronik basierend auf dem TP4056, um den Akku sicher über USB-C zu laden
 -	Betrieb während des Ladevorgangs: Die Maus bleibt voll funktionsfähig, selbst wenn sie geladen wird
@@ -13,7 +13,7 @@ Dieses Projekt zielt darauf ab, eine herkömmliche Bluetooth-Maus, die ursprüng
 -	Platzoptimierte Leiterplatte, die sich in das Gehäuse der Maus integriert
 -	Anpassung des Gehäuses durch 3D-Druck, um die neue Leiterplatte optimal unterzubringen
   
-## Technische Spezifikationen
+### Technische Spezifikationen
 -	Laderegler: TP4056 mit integriertem Schutzschaltkreis
 -	Akku-Schutz:
 --	DW01A: Li-Ion Schutz-IC zur Über- und Tiefentladesicherung
@@ -28,13 +28,13 @@ Dieses Projekt zielt darauf ab, eine herkömmliche Bluetooth-Maus, die ursprüng
 -	Sichere Energieverteilung zur Trennung von Lade- und Entladeströmen
 - 3D-gedrucktes Gehäuse-Modifikationen, um die Leiterplatte passgenau zu integrieren
   
-## Sicherheitsmechanismen durch DW01A & FS8025
+### Sicherheitsmechanismen durch DW01A & FS8025
 -	Überspannungsschutz (Overcharge Protection, OVP): Schützt den Akku vor Überladung
 -	Tiefentladeschutz (Overdischarge Protection, ODP): Verhindert eine Tiefentladung des Akkus, die ihn beschädigen könnte
 -	Kurzschlussschutz (Short Circuit Protection, SCP): Erkennt einen Kurzschluss und trennt den Akku sicher ab
 -	Überstromschutz (Overcurrent Protection, OCP): Stoppt den Stromfluss bei zu hoher Last
   
-## Vorteile & Nutzen
+### Vorteile & Nutzen
 
 -✅ Kein Wechsel von Einwegbatterien mehr – nachhaltige Lösung
 -✅ Maus bleibt auch während des Ladens nutzbar
