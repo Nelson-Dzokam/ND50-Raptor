@@ -49,8 +49,5 @@ Dieses Projekt zielt darauf ab, eine herkömmliche Bluetooth-Maus, die ursprüng
 - ✅ Erweiterte Sicherheit durch Schutzschaltung (DW01A & FS8025)
 - ✅ Einfache Integration in bestehende Hardware
 
-- 3D View:
-![3D View](https://github.com/Nelson-Dzokam/ND50-Raptor/blob/main/Screenshot%202025-03-01%20153703.png)
-- 2D View:
-![2D View](https://github.com/Nelson-Dzokam/ND50-Raptor/blob/main/Screenshot%202025-03-09%20193823.png)
+
 
