@@ -3,6 +3,11 @@
 
 Dieses Projekt zielt darauf ab, eine herkömmliche Bluetooth-Maus, die ursprünglich mit nicht wiederaufladbaren Batterien betrieben wird, auf einen fest verbauten Li-Ion/LiPo-Akku umzurüsten. Dazu wurde eine maßgeschneiderte Lade- und Energieverwaltungsleiterplatte entwickelt, die eine zuverlässige Stromversorgung sicherstellt und gleichzeitig den kontinuierlichen Betrieb der Maus während des Ladevorgangs ermöglicht.
 
+- 3D View:
+![3D View](https://github.com/Nelson-Dzokam/ND50-Raptor/blob/main/Screenshot%202025-03-01%20153703.png)
+- 2D View:
+![2D View](https://github.com/Nelson-Dzokam/ND50-Raptor/blob/main/Screenshot%202025-03-09%20193823.png)
+
 ### Funktionalität & Zielsetzung
 -	Ersetzen der herkömmlichen 1,5V-Batterie durch einen wiederaufladbaren Li-Ion/LiPo-Akku
 -	Integration einer Ladeelektronik basierend auf dem TP4056, um den Akku sicher über USB-C zu laden
